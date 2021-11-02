@@ -1,3 +1,4 @@
 matplotlib==3.3.1
 tqdm
 torch==1.5.1
+tensorboard
