@@ -105,7 +105,7 @@ def get_parser():
     parser.add_argument(
         "--data-type",
         type=str,
-        default="char",
+        default="word",
         choices=["char", "word"],
         help="data type",
     )
